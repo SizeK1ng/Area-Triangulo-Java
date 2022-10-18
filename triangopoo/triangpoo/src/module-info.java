@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Vituuuu
+ *
+ */
+module triangpoo {
+}
